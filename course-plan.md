@@ -1,4 +1,4 @@
-Course Time Table
+# Course Time Table
 
 | Module / Topic | Details | Duration |
 |---|---|---:|
@@ -12,4 +12,4 @@ Course Time Table
 | 8. Infrastructure as Code | Terraform, Bicep, CloudFormation | 3 days |
 | 9. AI Basics | Prompt engineering, LLM basics | 2 days |
 
-Total Duration: 22 days
+**Total Duration:** 22 days
