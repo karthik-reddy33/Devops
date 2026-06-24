@@ -2,7 +2,7 @@ time table
 daily
 Topics/course
 Linux
-Github
+Github/github actions
 cloud AWS/Azure
 scripting ,shell,python
 CI/CD
