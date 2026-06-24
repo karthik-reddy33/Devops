@@ -1,2 +1,11 @@
 time table
 daily
+Topics/course
+Linux
+Github
+cloud AWS/Azure
+scripting ,shell,python
+CI/CD
+Kubernetes
+IAC teraafrom,bicep,Clousformation
+AI basics(promot eng,LLM,)
