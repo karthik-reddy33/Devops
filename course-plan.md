@@ -2,7 +2,7 @@
 
 | Module / Topic | Details | Duration | Status |
 |---|---|---:|---|
-| 1. Linux Basics | Commands, file handling, permissions | 2 days | Planned |
+| 1. Linux Basics | Commands, file handling, permissions | 10 days | in progress |
 | 2. Git & GitHub | Version control, branching, pull requests | 2 days | Planned |
 | 3. GitHub Actions | CI/CD workflows, automation | 2 days | Planned |
 | 4. Cloud Computing | AWS / Azure basics | 3 days | Planned |
